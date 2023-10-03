@@ -1,0 +1,33 @@
+body {
+  background-color: cyan;
+}
+.jesus {
+  color: hotpink;
+}
+.jesus {
+  -webkit-transform: rotate(-7deg);
+}
+.jesus {
+font-family: "Comic Sans MS", "Comic Sans", cursive;}
+h2 {font-size: 50px;}
+h3 {font-family: "Times New Roman", Times, monospace;}
+h3{font-size: 30px;}
+
+/*unorgonized list 1*/
+.fam{ font-size: 18px;}
+.uno {
+  color: red;
+}
+.dos {
+  color: green;
+}
+.tres {
+  color: blue
+}
+/*unorgonized list 1 end*/
+.corn {color: brown}
+.corn {
+font-family: "Comic Sans MS", "Comic Sans", cursive;}
+.mine {
+  -webkit-transform: rotate(2deg);
+}
