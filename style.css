@@ -31,3 +31,25 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
 .mine {
   -webkit-transform: rotate(2deg);
 }
+
+.start {
+  color: hotpink;
+}
+.start {
+font-family: "Comic Sans MS", "Comic Sans", cursive;}
+.start {-webkit-transform: rotate(7deg);}
+
+.back {font-size: 35px;}
+
+.ethan {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;}
+
+.ethan {font-size: 10px;}
+
+.femboy {
+  position: absolute;
+  right: 150px;
+  top: 500px;
+  width: 100px;
+  height: 100px;
+} 
