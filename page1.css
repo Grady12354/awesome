@@ -7,6 +7,9 @@ body {
 .start {
 font-family: "Comic Sans MS", "Comic Sans", cursive;}
 .start {-webkit-transform: rotate(7deg);}
+.start {
+	-webkit-text-stroke: 2px white;
+}
 
 .back {font-size: 35px;}
 
