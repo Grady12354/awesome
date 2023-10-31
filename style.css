@@ -53,3 +53,5 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
   width: 100px;
   height: 100px;
 } 
+
+.button {border-radius: 2px;}
