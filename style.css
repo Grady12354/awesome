@@ -70,11 +70,11 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
 
   .secwet {
   background-color: #FFE4C4;
-  color: black;
+  color: #FFE4C4;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 1px; 
+  font-size: 10px; 
   padding: 0;
   border: none;
 }
