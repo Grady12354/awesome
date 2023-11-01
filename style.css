@@ -63,6 +63,7 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+  right: 500px;
 }
 
 .button {border-radius: 10px;}
