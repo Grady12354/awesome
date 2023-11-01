@@ -55,9 +55,8 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
 } 
 
 .button {
-  background-color: #04AA6D;
-  border: none;
-  color: white;
+  background-color: #E9967A;
+  color: black;
   padding: 20px;
   text-align: center;
   text-decoration: none;
@@ -66,4 +65,4 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
   margin: 4px 2px;
 }
 
-.button {border-radius: 2px;}
+.button {border-radius: 10px;}
