@@ -71,10 +71,8 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
   .secwet {
   background-color: #FFE4C4;
   color: black;
-  padding: 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
+  font-size: 20px;}
 }
