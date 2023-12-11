@@ -69,14 +69,7 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
 .button {border-radius: 25px;}
 
   .secwet {
-  background-color: #FFE4C4;
-  color: #fee2c1;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px; 
-  padding: 0;
-  border: none;
+  font-size: 50px; 
 }
 
 a.secwet:link {
