@@ -68,7 +68,9 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
 
 .button {border-radius: 25px;}
 
-
+.secwet{
+  font-size: 18px;
+}
 
 a.secwet:link {
   color:#FFE4C4;
