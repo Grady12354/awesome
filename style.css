@@ -68,9 +68,7 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
 
 .button {border-radius: 25px;}
 
-  .secwet {
-  font-size: 50px; 
-}
+
 
 a.secwet:link {
   color:#FFE4C4;
@@ -83,7 +81,7 @@ a.secwet:visited {
 
 /* mouse over link */
 a.secwet:hover {
-  color: black;
+  color: green;
 }
 /*remove underline*/
 a.secwet:link {
