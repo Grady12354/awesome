@@ -78,3 +78,49 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
   padding: 0;
   border: none;
 }
+
+a.secwet:link {
+  color:#FFE4C4;
+}
+
+/* visited link */
+a.secwet:visited {
+  color:#FFE4C4;
+}
+
+/* mouse over link */
+a.secwet:hover {
+  color: black;
+}
+/*remove underline*/
+a.secwet:link {
+  text-decoration: none;
+}
+
+a.secwet:visited {
+  text-decoration: none;
+}
+
+a.secwet:hover {
+  text-decoration: none;
+}
+
+a.secwet:active {
+  text-decoration: none;
+}
+/*remove underline*/
+a.happy:link {
+  text-decoration: none;
+}
+
+a.happy:visited {
+  text-decoration: none;
+}
+
+a.happy:hover {
+  text-decoration: none;
+}
+
+a.happy:active {
+  text-decoration: none;
+}
