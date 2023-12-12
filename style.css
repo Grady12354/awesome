@@ -84,7 +84,7 @@ a.secwet:visited {
 /* mouse over link */
 a.secwet:hover {
   color: green;
-  -webkit-text-stroke: 2px white;
+  font-size: 20px;
 }
 /*remove underline*/
 a.secwet:link {
