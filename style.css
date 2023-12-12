@@ -13,6 +13,16 @@ h2 {font-size: 50px;}
 h3 {font-family: "Times New Roman", Times, monospace;}
 h3{font-size: 30px;}
 
+.hide {
+  display: none;
+}
+
+.jesus:hover + .hide {
+  display: block;
+  color: cyan;
+  font-size: 5px;
+}
+
 /*unorgonized list 1*/
 .fam{ font-size: 18px;}
 .uno {
