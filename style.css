@@ -2,25 +2,24 @@ body {
   background-color: #FFE4C4;
 }
 .jesus {
-  color: hotpink;
-}
-.jesus {
+  animation-name: gay;
+  animation-duration: 2.5s;
   -webkit-transform: rotate(-7deg);
-}
-.jesus {
-font-family: "Comic Sans MS", "Comic Sans", cursive;}
+  font-family: "Comic Sans MS", "Comic Sans", cursive;}
+
 h2 {font-size: 50px;}
-h3 {font-family: "Times New Roman", Times, monospace;}
-h3{font-size: 30px;}
+h3 {font-family: "Times New Roman", Times, monospace;
+font-size: 30px;
+   }
 
-.hide {
-  display: none;
-}
-
-.jesus:hover + .hide {
-  display: block;
-  color: cyan;
-  font-size: 5px;
+@keyframes gay {
+  1% {color: red;}
+  1% {color: orange;}
+  1% {color: yellow;}
+  1% {color: green;}
+  1% {color: blue;}
+  1% {color: purple;}
+  1% {color: violet;}
 }
 
 /*unorgonized list 1*/
@@ -81,7 +80,7 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;}
 .secwet{
   font-size: 18px;
 }
-
+/*link customizers*/
 a.secwet:link {
   color:#FFE4C4;
 }
