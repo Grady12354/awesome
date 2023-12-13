@@ -13,11 +13,6 @@ h2 {font-size: 50px;}
 h3 {font-family: "Times New Roman", Times, monospace;}
 h3{font-size: 30px;}
 
-.jesus {background: linear-gradient(to right, red, yellow, green, blue, purple);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 .hide {
   display: none;
 }
