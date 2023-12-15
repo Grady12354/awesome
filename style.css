@@ -14,13 +14,19 @@ font-size: 30px;
    }
 
 @keyframes gay {
-  15% {color: red;}
-  30% {color: orange;}
-  45% {color: yellow;}
-  60% {color: green;}
-  75% {color: blue;}
-  90% {color: purple;}
-  100% {color: violet;}
+  7% {color: red;}
+  14% {color: orange;}
+  21% {color: yellow;}
+  28% {color: green;}
+  35% {color: blue;}
+  42% {color: purple;}
+  49% {color: violet;}
+  56% {color: purple;}
+  63% {color: blue;}
+  70% {color: green;}
+  77% {color: yellow;}
+  84% {color: orange;}
+  91% {color: red;}
 }
 
 /*unorgonized list 1*/
