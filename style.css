@@ -3,7 +3,7 @@ body {
 }
 .jesus {
   animation-name: gay;
-  animation-duration: 2.5s;
+  animation-duration: 5s;
   animation-iteration-count: infinite;
   -webkit-transform: rotate(-7deg);
   font-family: "Comic Sans MS", "Comic Sans", cursive;}
