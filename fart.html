@@ -9,9 +9,15 @@
     <audio id="fartAudio" src="fart.mp3" loop></audio>
     <script>
         const fartAudio = document.getElementById("fartAudio");
-        setInterval(() => {
-            fartAudio.play();
-        }, 100);
+        fartAudio.play(); // Play the audio immediately
+
+        // Function to play the audio without resetting
+        function playFart() {
+            const clone = fartAudio.cloneNode(); // Create a new audio element
+            clone.play(); // Play the cloned audio
+        }
+
+        setInterval(playFart, 100); // Play every 0.1 seconds
     </script>
 </body>
 </html>
