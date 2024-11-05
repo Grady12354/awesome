@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open 100 Tabs</title>
+    <script>
+        function openTabs() {
+            for (let i = 0; i < 100; i++) {
+                window.open('https://www.example.com', '_blank');
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Open 100 New Tabs</h1>
+    <button onclick="openTabs()">Click to Open 100 Tabs</button>
+</body>
+</html>
